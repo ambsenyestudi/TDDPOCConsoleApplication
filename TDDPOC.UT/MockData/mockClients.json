@@ -1,0 +1,18 @@
+﻿{
+  "clients": [
+    {
+      "ClientInfoID":"1",
+      "Name":"Javier",
+      "Surname":"Pereira",
+      "Phone":"555123555",
+      "Email":"jpereira@pereiraandassociates.tk"
+    },
+    {
+      "ClientInfoID": "2",
+      "Name": "Javier",
+      "Surname": "Pereira",
+      "Phone": "555321555",
+      "Email": "jpereira@pereiraandassociates.tk"
+    }
+  ]
+}
